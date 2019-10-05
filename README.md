@@ -21,6 +21,6 @@
 					</a>
 				</div>
 			</li>
-		<ol>
+		</ol>
 	</body>
 </html>
